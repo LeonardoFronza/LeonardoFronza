@@ -1,4 +1,5 @@
-Leonardo Fronza.
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leonardo Fronza</h1>
+
 <div align="center">
   <a href="https://github.com/leonardofronza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardofronza&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
