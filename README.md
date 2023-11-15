@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/leonardofronza">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=LeonardoFronza&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFronza&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LeonardoFronza&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFronza&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
   
 <div style="display: inline_block"><br>
