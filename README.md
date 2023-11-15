@@ -12,7 +12,7 @@
 </div>
   
 <div style="display: inline_block">
-  <img align="right" alt="leo-pic" height="130" style="border-radius:50px;" src="https://66.media.tumblr.com/tumblr_mbc239V06j1rfjowdo1_500.gif">
+  <img align="right" alt="leo-pic" height="110" style="border-radius:50px;" src="https://66.media.tumblr.com/tumblr_mbc239V06j1rfjowdo1_500.gif">
 </div>
   
   ##
